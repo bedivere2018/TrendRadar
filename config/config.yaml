@@ -97,6 +97,7 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 # https://newsnow.busiyi.world/api/s?id=tencent-hot&latest
+# https://github.com/ourongxing/newsnow/blob/main/shared/sources.json
 platforms:
   - id: "toutiao"
     name: "今日头条"
