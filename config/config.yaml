@@ -123,6 +123,8 @@ platforms:
     name: "Github"
   - id: "tencent"
     name: "腾讯新闻"
+  - id: "tencent-hot"
+    name: "腾讯早报"
   - id: "douban"
     name: "豆瓣"
   - id: "coolapk"
