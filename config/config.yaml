@@ -96,6 +96,7 @@ weight:
   hotness_weight: 0.1 # 热度权重
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
+# https://newsnow.busiyi.world/api/s?id=tencent-hot&latest
 platforms:
   - id: "toutiao"
     name: "今日头条"
@@ -129,5 +130,5 @@ platforms:
     name: "豆瓣"
   - id: "coolapk"
     name: "酷安"
-  - id: "fastbull"
-    name: "法布财经"
+  - id: "fastbull-news"
+    name: "法布财经 头条"
