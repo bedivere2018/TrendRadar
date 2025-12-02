@@ -124,7 +124,7 @@ ipad
 mac
 ios
 
-ai
+AI
 !gai
 人工智能
 
